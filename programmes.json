@@ -1,0 +1,20 @@
+[
+    {
+        "nom": "Ashwagandha Bio - Nutripure",
+        "lien_affiliation": "https://exemple.com/aff/ashwagandha",
+        "commission": 0.3,
+        "prix": 34.9
+    },
+    {
+        "nom": "Focus+ Nootropique Naturel",
+        "lien_affiliation": "https://exemple.com/aff/focusplus",
+        "commission": 0.35,
+        "prix": 49.9
+    },
+    {
+        "nom": "Pack D\u00e9tox 7 jours",
+        "lien_affiliation": "https://exemple.com/aff/detox",
+        "commission": 0.28,
+        "prix": 39.0
+    }
+]

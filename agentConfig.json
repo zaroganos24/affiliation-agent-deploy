@@ -1,0 +1,25 @@
+{
+    "revenu_cible_mensuel": 2500,
+    "niches_prioritaires": [
+        "sant\u00e9 naturelle",
+        "focus mental",
+        "\u00e9nergie",
+        "d\u00e9tox"
+    ],
+    "min_volume_recherche": 1000,
+    "max_concurrence": "moyenne",
+    "produit_affili\u00e9": {
+        "commission_min": 0.25,
+        "prix_min": 30
+    },
+    "contenu": {
+        "format": "comparatif + liste + CTA",
+        "longueur_min": 800,
+        "ton": "neutre expert",
+        "liens_affili\u00e9s_par_page": 3
+    },
+    "publication": {
+        "hebergement": "local",
+        "style": "minimaliste SEO-friendly"
+    }
+}

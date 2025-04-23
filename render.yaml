@@ -1,0 +1,9 @@
+
+services:
+  - type: cron
+    name: affiliation-agent
+    env: node
+    plan: free
+    schedule: "*/180 * * * *"
+    buildCommand: "npm install"
+    startCommand: "node agent_autonome.js"
